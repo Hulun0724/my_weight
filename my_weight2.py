@@ -51,7 +51,8 @@ else:
     else:
         print('Nothing entered, Please try again!')
     
-
+def fake():
+    print('nothing')
 
 
 
