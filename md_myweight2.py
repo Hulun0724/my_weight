@@ -39,5 +39,5 @@ else:
     print('There is no date : ' + date + ' found in database, Bye!')
    
 
-# Now I know how to use gitHub
+# This is from clone dir
 
